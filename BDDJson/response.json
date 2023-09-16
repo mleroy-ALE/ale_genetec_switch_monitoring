@@ -1,0 +1,316 @@
+{
+    "result": {
+        "domain": "mib:ifXTable",
+        "diag": 200,
+        "output": "",
+        "error": "",
+        "data": {
+            "rows": {
+                "1001": {
+                    "ifHCInOctets": "503061464",
+                    "ifHCOutOctets": "1306032398"
+                },
+                "1002": {
+                    "ifHCInOctets": "386060721",
+                    "ifHCOutOctets": "223600186"
+                },
+                "1003": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1004": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1005": {
+                    "ifHCInOctets": "7044732",
+                    "ifHCOutOctets": "7044732"
+                },
+                "1006": {
+                    "ifHCInOctets": "7044732",
+                    "ifHCOutOctets": "7044732"
+                },
+                "1007": {
+                    "ifHCInOctets": "128992794",
+                    "ifHCOutOctets": "86550050"
+                },
+                "1008": {
+                    "ifHCInOctets": "162318576",
+                    "ifHCOutOctets": "117530274"
+                },
+                "1009": {
+                    "ifHCInOctets": "155311257",
+                    "ifHCOutOctets": "9950088"
+                },
+                "1010": {
+                    "ifHCInOctets": "29356198",
+                    "ifHCOutOctets": "17049181"
+                },
+                "1011": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1012": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1013": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1014": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1015": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1016": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1017": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1018": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1019": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1020": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1021": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1022": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1023": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1024": {
+                    "ifHCInOctets": "297624637",
+                    "ifHCOutOctets": "290190174"
+                },
+                "1025": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1026": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1027": {
+                    "ifHCInOctets": "346340927",
+                    "ifHCOutOctets": "293503743"
+                },
+                "1028": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1029": {
+                    "ifHCInOctets": "303197371",
+                    "ifHCOutOctets": "339642755"
+                },
+                "1030": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1031": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1032": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1033": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1034": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1035": {
+                    "ifHCInOctets": "73696078",
+                    "ifHCOutOctets": "0"
+                },
+                "1036": {
+                    "ifHCInOctets": "284627348",
+                    "ifHCOutOctets": "0"
+                },
+                "1037": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1038": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1039": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1040": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1041": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1042": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1043": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1044": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1045": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1046": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1047": {
+                    "ifHCInOctets": "24966080",
+                    "ifHCOutOctets": "290190958"
+                },
+                "1048": {
+                    "ifHCInOctets": "1474732",
+                    "ifHCOutOctets": "290191026"
+                },
+                "1049": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1050": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1051": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1052": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1053": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "1054": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13600001": {
+                    "ifHCInOctets": "31783654",
+                    "ifHCOutOctets": "119952"
+                },
+                "13600002": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13600003": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13600004": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13600005": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13600006": {
+                    "ifHCInOctets": "152899021",
+                    "ifHCOutOctets": "439157152"
+                },
+                "13600007": {
+                    "ifHCInOctets": "31782366",
+                    "ifHCOutOctets": "119952"
+                },
+                "13600008": {
+                    "ifHCInOctets": "168",
+                    "ifHCOutOctets": "121000"
+                },
+                "13600010": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13600018": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13604100": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13604101": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13604124": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13604125": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "13604126": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "38910000": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "38920001": {
+                    "ifHCInOctets": "152",
+                    "ifHCOutOctets": "152"
+                },
+                "38940001": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "384"
+                },
+                "40000037": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "40000055": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "40000101": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                },
+                "40000102": {
+                    "ifHCInOctets": "0",
+                    "ifHCOutOctets": "0"
+                }
+            }
+        }
+    }
+}
