@@ -153,10 +153,18 @@ def plot_all_ports_info(db_params):
     ax1.set_xlabel("Timestamps")
     ax1.set_ylabel("Volume of Data Received")
     ax1.xaxis.set_major_formatter(md.DateFormatter('%m-%d %H:%M:%S'))
+    
     ax2.set_title("Data Transmitted for All Ports")
     ax2.set_xlabel("Timestamps")
     ax2.set_ylabel("Volume of Data Transmitted")
     ax2.xaxis.set_major_formatter(md.DateFormatter('%m-%d %H:%M:%S'))
+
+    # Format y-axis labels to human-readable format
+    y_values = ax1.get_yticks()
+    ax1.set_yticklabels([human_readable_size(y) for y in y_values if y >= 0])
+
+    y_values = ax2.get_yticks()
+    ax2.set_yticklabels([human_readable_size(y) for y in y_values if y >= 0])
 
     plt.xticks(rotation=25)
     plt.tight_layout()
