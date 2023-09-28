@@ -1,2 +1,2 @@
-    # exclude .env with passwords
-    .env
+# exclude .env with passwords
+.env
