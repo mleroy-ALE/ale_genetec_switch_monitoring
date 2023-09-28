@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The `SwitchDataMonitoringFetch` and `SwitchDataMonitoringPlot` scripts are tailored to facilitate real-time data fetching and visualization from a network switch. These scripts are designed to work in unison - `SwitchDataMonitoringFetch` handles the data retrieval and storage from the switch, while `SwitchDataMonitoringPlot` is responsible for visualizing this data, providing insights into the switch’s performance and data traffic.
+The `SwitchDataMonitoringFetch` and `SwitchDataMonitoringPlot` scripts work together to provide an effective solution for monitoring, retrieving, and visualizing switch data. These Python scripts are specifically designed for ALE switches, utilizing RESTful APIs to fetch data and Python's powerful libraries to visualize the collected data effectively.
 
 ### 1. `SwitchDataMonitoringFetch`
 
