@@ -5,10 +5,11 @@ import os
 from dotenv import load_dotenv
 from psycopg2 import sql
 from matplotlib.ticker import MaxNLocator
+from pathlib import Path
+
 
 # Load environment variables from a file
-env_path = 'C:/Users/mleroy/Documents/0Projets/ALE Genetec/PythonBDD/.env'
-load_dotenv(dotenv_path=env_path)
+load_dotenv(dotenv_path=Path('./.env'))
 
 # Function to convert user input into numerical port value
 def translate_prompt_to_port(portprompt):

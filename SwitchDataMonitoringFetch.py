@@ -7,11 +7,11 @@ import time
 import psycopg2
 from psycopg2 import sql
 from dotenv import load_dotenv
+from pathlib import Path
 
 # Loading environment variables and setting up logging
-env_path = 'C:/Users/mleroy/Documents/0Projets/ALE Genetec/PythonBDD/.env'
 logging.basicConfig(level=logging.INFO)
-load_dotenv(dotenv_path=env_path)
+load_dotenv(dotenv_path=Path('./.env'))
 
 # Function to authenticate to the switch and get the cookie
 def authenticate_to_switch(switch_address, username, password):
