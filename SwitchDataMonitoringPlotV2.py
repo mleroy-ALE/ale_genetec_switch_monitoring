@@ -1,4 +1,3 @@
-# Importing required libraries and modules
 from pathlib import Path
 from matplotlib.ticker import MaxNLocator
 import psycopg2
